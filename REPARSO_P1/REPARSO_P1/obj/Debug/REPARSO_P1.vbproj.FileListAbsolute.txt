@@ -1,0 +1,12 @@
+C:\Users\Nitro\source\repos\REPARSO_P1\bin\Debug\REPARSO_P1.exe.config
+C:\Users\Nitro\source\repos\REPARSO_P1\bin\Debug\REPARSO_P1.exe
+C:\Users\Nitro\source\repos\REPARSO_P1\bin\Debug\REPARSO_P1.pdb
+C:\Users\Nitro\source\repos\REPARSO_P1\bin\Debug\REPARSO_P1.xml
+C:\Users\Nitro\source\repos\REPARSO_P1\obj\Debug\REPARSO_P1.vbproj.AssemblyReference.cache
+C:\Users\Nitro\source\repos\REPARSO_P1\obj\Debug\REPARSO_P1.Form1.resources
+C:\Users\Nitro\source\repos\REPARSO_P1\obj\Debug\REPARSO_P1.Resources.resources
+C:\Users\Nitro\source\repos\REPARSO_P1\obj\Debug\REPARSO_P1.vbproj.GenerateResource.cache
+C:\Users\Nitro\source\repos\REPARSO_P1\obj\Debug\REPARSO_P1.vbproj.CoreCompileInputs.cache
+C:\Users\Nitro\source\repos\REPARSO_P1\obj\Debug\REPARSO_P1.exe
+C:\Users\Nitro\source\repos\REPARSO_P1\obj\Debug\REPARSO_P1.xml
+C:\Users\Nitro\source\repos\REPARSO_P1\obj\Debug\REPARSO_P1.pdb
